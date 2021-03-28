@@ -1,3 +1,13 @@
+//From a test I did on 29/03/2021 for a Company in Budapest,Hungary.
+/*
+ * Complete the 'updateTimes' function below.
+ *
+ * The function is expected to return an INTEGER.
+ * The function accepts following parameters:
+ *  1. INTEGER_ARRAY signalOne
+ *  2. INTEGER_ARRAY signalTwo
+ */
+
 int updateTimes(int signalOne_count, int* signalOne, int signalTwo_count, int* signalTwo)
 {
     int maxEqual =0;
